@@ -2,6 +2,8 @@
 
 A Spring Boot application for the Campus Management System.
 
+Refer to the [frontend repository](https://github.com/DaSmelterSaif/campus-management-sys-frontend).
+
 ## Prerequisites
 
 Before running this project, ensure you have the following installed:
