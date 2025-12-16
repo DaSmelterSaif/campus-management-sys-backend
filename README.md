@@ -44,6 +44,16 @@ Refer to the [endpoints](#endpoints) section...
 - /getallbookings (GET)
 - /getallmaintenance (GET)
 
+## Disclaimer
+
+- All the classes written in the com.example.campussysbackend 
+package (except for the CampussysbackendApp class) were not 
+entirely written by me. The members who helped build it do
+not care for credit, and thus, their names has not been 
+listed.
+- Generative AI may have been used to generate the code
+partially (to meet project's tight deadlines).
+
 ## License
 
 This project is licensed under the GNU General Public License v3.0 (GPLv3).  
