@@ -43,3 +43,10 @@ Refer to the [endpoints](#endpoints) section...
 - /getmaintenance (GET)
 - /getallbookings (GET)
 - /getallmaintenance (GET)
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPLv3).  
+See the [COPYING](COPYING) file for full license details.
+
+For more information about GPLv3, visit [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
