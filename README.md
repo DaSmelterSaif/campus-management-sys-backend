@@ -22,7 +22,8 @@ Run the server (project root):
 
 The server runs on http://localhost:8080/
 
-Refer to the [endpoints](#endpoints) section...
+Refer to the [endpoints](#endpoints) section and the
+[available credentials](#available-credentials) section...
 
 ### Endpoints
 
@@ -43,6 +44,23 @@ Refer to the [endpoints](#endpoints) section...
 - /getmaintenance (GET)
 - /getallbookings (GET)
 - /getallmaintenance (GET)
+
+### Available Credentials
+
+The following credential list can be used in the frontend
+to test the system. Note that registering a new account
+was not (and will never be) implemented and the only way
+to register is to write the credentials manually.
+
+The credentials are ordered in this format:  
+ID,EMAIL,PASSWORD,ROLE,NAME
+
+- 1000,student1@sys.com,pass123,student,John Doe
+- 1001,student2@sys.com,pass123,student,Jane Smith
+- 200,faculty1@sys.com,pass456,faculty,Dr. Brown
+- 201,faculty2@sys.com,pass456,faculty,Prof. Wilson
+- 202,maint1@sys.com,pass789,maintenance,Sam Fixer
+- 99,admin@sys.com,admin123,admin,System Admin
 
 ## Disclaimer
 
